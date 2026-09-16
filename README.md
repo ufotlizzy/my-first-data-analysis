@@ -86,3 +86,18 @@ My_First_Data_Analysis.xlsx – Contains the fictional sales data, product summa
  Purpose
 
 This project is part of my journey toward developing practical data analysis, reporting, and data visualization skills.
+
+
+Visualizations
+
+ Revenue by Product
+
+![Revenue by Product](visualizations/revenue_by_product.png)
+
+ Revenue by Region
+
+![Revenue by Region](visualizations/revenue_by_region.png)
+
+Monthly Revenue Trend
+
+![Monthly Revenue Trend](visualizations/monthly_revenue_trend.png)
